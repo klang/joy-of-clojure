@@ -1,0 +1,19 @@
+# joyofclojure
+
+Drunken notes from reading and working through The Joy of Clojure
+
+## Usage
+
+I wouldn't, but if you must:
+
+lein swank
+
+## Installation
+
+Really, you shouldn't
+
+## License
+
+Copyright (C) 2010 Karsten Lang
+
+Distributed under the Eclipse Public License, the same as Clojure.
